@@ -7,13 +7,14 @@ we describe the sequence of steps we took to make our paper reproducible. the ou
 ## required software
 required software/packages:
 * [Python 3](https://www.python.org/downloads/) version 3.8 or newer
+* [Jupyter Notebook] (https://jupyter.org/)
 
 ## the sensor array response dataset
-we obtained the dataset of the response of sensors to gases from experimental collaboration from college of Darthmouth lead by Dr.Katherine A. Mirica.
+we obtained the dataset of the response of sensors to gases from experimental collaboration from Dartmouth College led by Dr. Katherine A. Mirica.
 
-### analysis and visualizations
-we run the PCA and performed supervised learning on the sensor array dataset using `sensor_response.ipynb`. the outputted figures are stored in the `figs` directory. 
+## analysis
+we run the PCA and performed supervised learning on the sensor array dataset using `sensor_response.ipynb`.
 
 ## overview of directories
-- `Raw_sensing_data`: contains excel raw response files of sensors to gases at specific carrier at different concentration level [ppm]
-- `responses`: contain visualization of every single experiments(ppm of gas carried in a carrier gas expose to a COF) with the features extracted
+- `Raw_sensing_data`: contains Microsoft Excel raw response files of sensors to gases at specific carrier at different concentration level [ppm]
+- `responses`: contain visualization of the response of sensors to every single experiments (ppm of gas carried in a carrier gas) with the features extracted
