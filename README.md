@@ -7,7 +7,7 @@ we describe the sequence of steps we took to make our paper reproducible. the ou
 ## required software
 required software/packages:
 * [Python 3](https://www.python.org/downloads/) version 3.8 or newer
-* [Jupyter Notebook] (https://jupyter.org/)
+* [Jupyter Notebook](https://jupyter.org/)
 
 ## the sensor array response dataset
 we obtained the dataset of the response of sensors to gases from experimental collaboration from Dartmouth College led by Dr. Katherine A. Mirica.
