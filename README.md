@@ -1,4 +1,4 @@
-# Conductive covalent organic frameworks as chemiresistive sensor arrays for the detction and differentiation of gasotransmitters 
+# Conductive covalent organic frameworks as chemiresistive sensor arrays for the detection and differentiation of gasotransmitters 
 :rocket: this repo contains data and code to reproduce the results for:
 > Georganna Benedetto, Robert M. Stolz, Zheng Meng, Elissa Shehayeb, Colin T. Morrell, Yu Man Chan, Gbenga Fabusola, Nikolaus Elsaesser, Cory M. Simon, and Katherine A. Mirica "Conductive covalent organic frameworks as chemiresistive sensor arrays for the detction and differentiation of gasotransmitters"
 
